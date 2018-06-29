@@ -1,2 +1,2 @@
 # version-maven-plugin
-check version
+ * check version
